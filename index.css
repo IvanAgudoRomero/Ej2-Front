@@ -1,0 +1,31 @@
+body{
+    background-color:aquamarine;
+}
+
+#form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#formulario{
+    display: flex;
+    flex-direction: column;
+}
+
+#botones{
+    display: flex;
+    justify-content: center;
+}
+
+label{
+    float: right;
+    vertical-align: middle;
+}
+
+input{
+    float: right;
+    width: 45%;
+    margin: 2px;
+}
+
